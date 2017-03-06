@@ -1,3 +1,2 @@
 # touchegg
-
-Sadly, this project is no longer supported and does not work on recent versions of Ubuntu.
+This repository has been moved to https://github.com/JoseExposito/touchegg
